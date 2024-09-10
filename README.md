@@ -1,4 +1,4 @@
-## Hi there 👋
+## In search of inspiration 👾
 
 <!--
 **Palvenok/Palvenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
