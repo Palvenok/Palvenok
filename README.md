@@ -1,9 +1,9 @@
-# In search of inspiration 
+# In search of inspiration <img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/space_plankton.gif" height="40" />
 
 [![](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@palvenok)
 [![](https://img.shields.io/badge/Itch.io-FA5C5C)](https://daftmixo.itch.io/)
 [![](https://img.shields.io/badge/Telegram-1C93E3)](https://t.me/DaftMixo)
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
+<img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/kyubey.gif" height="30" />
 <!--
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Palvenok&rank_icon=github&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Palvenok&rank_icon=github&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
