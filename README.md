@@ -1,24 +1,12 @@
-# In search of inspiration <img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/space_plankton.gif" height="40" />
-
-[![](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@palvenok)
-[![](https://img.shields.io/badge/Itch.io-FA5C5C)](https://daftmixo.itch.io/)
-[![](https://img.shields.io/badge/Telegram-1C93E3)](https://t.me/DaftMixo)
-<img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/kyubey.gif" height="30" />
-<!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Palvenok&rank_icon=github&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Palvenok&rank_icon=github&show_icons=true&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!--
-**Palvenok/Palvenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+  <h1 align="left">In search of inspiration <img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/kyubey.gif" height="40" /></h1>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/sad-cute.gif" align="left">
+  </div>
+  <p align="center">
+    <a href="https://www.youtube.com/@palvenok"><img src="https://img.shields.io/badge/youtube%20-%23FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://daftmixo.itch.io/"><img src="https://img.shields.io/badge/itch.io%20-%23FA5C5C?&style=for-the-badge&logo=itch.io&logoColor=white" /></a>
+    <a href="https://t.me/DaftMixo"><img src="https://img.shields.io/badge/telegram%20-%231C93E3?&style=for-the-badge&logo=telegram&logoColor=white" /></a><br>
+    <!--<img src="https://raw.githubusercontent.com/Palvenok/Palvenok/refs/heads/main/Assets/anime-dance.gif" align="center"> -->
+  </p>
+</body>
